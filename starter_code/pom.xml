@@ -60,11 +60,7 @@
          
                 
         <!---***************** slf4j dependency *********************-->                
-        <dependency>
-            <groupId>org.slf4j</groupId>
-            <artifactId>slf4j-log4j12</artifactId>
-            <scope>test</scope>
-        </dependency>
+
                 
         <!---***************** Junit dependency *********************--> 
         <dependency>
