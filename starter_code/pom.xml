@@ -25,6 +25,7 @@
 <!-- some changes kir-->
 <!-- some changes one more kir-->
 <!-- some changes two more kir-->
+<!-- some changes three more kir-->
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
