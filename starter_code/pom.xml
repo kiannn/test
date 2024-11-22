@@ -19,10 +19,10 @@
         <maven.compiler.source>12</maven.compiler.source>
         <maven.compiler.target>12</maven.compiler.target>
     </properties>
-<!-- some changes -->
-<!-- some changes --> 
-<!-- some changes -->
-<!-- some changes main-->
+<!-- some changes kir-->
+<!-- some changes kir--> 
+<!-- some changes kir-->
+<!-- some changes kir-->
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
